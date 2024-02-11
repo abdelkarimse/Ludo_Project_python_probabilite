@@ -1,7 +1,5 @@
 # Ludo_Project_python_probabilite
 
-<img href="https://freebiesupply.com/logos/python-logo/" alt="python" >
-<img href="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.moddb.com%2Fgames%2Fludo-king%2Fimages%2Fludo-king-logo-1&psig=AOvVaw3nfxnoXk-qPLHb8AuPEbcC&ust=1707751214505000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCJi68pbLo4QDFQAAAAAdAAAAABAQ" alt="Ludo" >
 
 
 ## Overview
