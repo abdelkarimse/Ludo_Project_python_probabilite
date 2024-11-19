@@ -22,7 +22,7 @@ To run the project on your local machine, follow these steps:
 
 1. **Clone the repository**:
     ```bash
-    git clone https://github.com/yourusername/Ludo_Project_python_probabilite.git
+    git clone https://github.com/abdelkarimse/Ludo_Project_python_probabilite.git
     ```
 
 2. **Navigate into the project directory**:
@@ -37,12 +37,8 @@ To run the project on your local machine, follow these steps:
     source venv/bin/activate  # On Windows use `venv\Scripts\activate`
     ```
 
-4. **Install the dependencies**:
-    ```bash
-    pip install -r requirements.txt
-    ```
 
-5. **Run the project**:
+4. **Run the project**:
     Execute the main script to start the Ludo simulation and analysis:
     ```bash
     python main.py
