@@ -41,7 +41,7 @@ To run the project on your local machine, follow these steps:
 4. **Run the project**:
     Execute the main script to start the Ludo simulation and analysis:
     ```bash
-    python main.py
+    python Ludo_Python.py
     ```
 
 ---
